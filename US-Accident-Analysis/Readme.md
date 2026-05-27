@@ -118,7 +118,7 @@ This project addresses these challenges by:
 
 # 📂 Repository Structure
 
-
+```bash
 US-Accident-EDA/
 │
 ├── data/
@@ -126,7 +126,7 @@ US-Accident-EDA/
 ├── visuals/
 ├── report/
 └── README.md
-
+```
 
 ---
 
